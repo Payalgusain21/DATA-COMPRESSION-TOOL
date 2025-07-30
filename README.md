@@ -53,4 +53,5 @@ Once a valid operation is performed, the program prints a confirmation message l
 
 *LANGUAGE*: C
 
-*OUTPUT*: <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/62176846-29d2-482a-a2df-38a76550461b" />
+*OUTPUT*: <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/62176846-29d2-482a-a2df-38a76550461b" /> 
+<img width="1920" height="1021" alt="Image" src="https://github.com/user-attachments/assets/2d6091ad-5ba8-4255-a791-a264819fd280" />
